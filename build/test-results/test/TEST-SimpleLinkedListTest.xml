@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleLinkedListTest" tests="7" skipped="6" failures="0" errors="0" timestamp="2023-10-08T07:36:00" hostname="DESKTOP-9NBA0UR" time="1.153">
+  <properties/>
+  <testcase name="canReturnListAsArray" classname="SimpleLinkedListTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="reverseReversesList" classname="SimpleLinkedListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="canCreateFromArray" classname="SimpleLinkedListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="canReturnEmptyListAsEmptyArray" classname="SimpleLinkedListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="popOnEmptyListWillThrow" classname="SimpleLinkedListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="popReturnsLastAddedElement" classname="SimpleLinkedListTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="aNewListIsEmpty" classname="SimpleLinkedListTest" time="1.138"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
